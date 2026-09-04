@@ -1,0 +1,8 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^powershell -ExecutionPolicy Bypass -NoProfile -Command \"cd 'C:\\\\Home\\\\SIH project'; npm run build\"$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}
